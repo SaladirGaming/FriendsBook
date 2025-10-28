@@ -1,0 +1,5 @@
+{
+  "name": "Freundebuch - Friendship Book",
+  "description": "A modern digital friendship book application where users can sign up, add their friends, and view their profiles. It features AI-powered gift suggestions for each friend, making it easy to find the perfect present.",
+  "requestFramePermissions": []
+}
